@@ -1,6 +1,7 @@
 [
   {
     "nombre": "Nombre2",
-    "edad": 20
+    "edad": 20,
+    "nacionalidad": "nacionalidad2"
   }
 ]
