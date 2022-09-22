@@ -2,6 +2,7 @@
   {
     "nombre": "Nombre2",
     "edad": 20,
-    "nacionalidad": "nacionalidad2"
+    "nacionalidad": "nacionalidad2",
+    "paisDeOrigen": "país2"
   }
 ]
