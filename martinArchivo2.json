@@ -1,6 +1,8 @@
 [
   {
     "nombre": "Nombre2",
-    "edad": 20
+    "edad": 20,
+    "color de pelo": "Un color de pelo",
+    "juego favorito": "Mario"
   }
 ]
